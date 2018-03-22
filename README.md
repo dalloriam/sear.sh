@@ -48,7 +48,8 @@ GET localhost:1500/sch/<Query>
 
 ==> <DocumentID2> <==
 <DocumentBody2>
-``` 
+
+```
 
 ## Distributed Configuration
 Simply mount the same volume on the `/data` directory of your `Sear.sh` containers. Nothing bad could ever come from that, right?.
